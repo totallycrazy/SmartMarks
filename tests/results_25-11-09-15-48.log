@@ -1,0 +1,17 @@
+Import executed at 2025-11-09T15:48:06.335634+00:00
+Source file: /workspace/SmartMarks/bookmarks/bookmarks.html
+Total parsed bookmarks: 5
+Imported records: 5
+Skipped duplicates: 0
+
+Bookmarks:
+  1. Python -> https://www.python.org
+     Source: html-import
+  2. FastAPI Docs -> https://fastapi.tiangolo.com
+     Source: html-import
+  3. SQLModel -> https://sqlmodel.tiangolo.com
+     Source: html-import
+  4. SQLAlchemy -> https://docs.sqlalchemy.org
+     Source: html-import
+  5. GitHub -> https://github.com/
+     Source: html-import
